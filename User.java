@@ -28,4 +28,10 @@ public class User implements Serializable {
     public void demo1(){
 	System.out.println("hello");    
     }
+
+	//*****************本地新增方法*******************************
+ public void demo2(){
+	System.out.println("hello222222222222222222222");    
+    }
+
 }
