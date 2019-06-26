@@ -24,4 +24,8 @@ public class User implements Serializable {
     private String name;
     @Column(length = 4,nullable = true,name = "age")
     private Integer age;
+	
+    public void demo1(){
+	System.out.println("hello");    
+    }
 }
