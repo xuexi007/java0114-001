@@ -29,7 +29,8 @@ public class User implements Serializable {
 	System.out.println("hello");    
     }
 
-	//*****************本地新增方法*******************************
+     //鏇存敼缂栫爜涓簎tf8
+	//*****************鏈湴鏂板鏂规硶*******************************
  public void demo2(){
 	System.out.println("hello222222222222222222222");    
     }
